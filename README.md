@@ -1,0 +1,2 @@
+# work-terminal
+Terminal setup.
